@@ -1,1 +1,1 @@
-FROM jgowen69/base_web
+FROM jgowen69/base_web:latest
